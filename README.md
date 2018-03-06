@@ -1,0 +1,2 @@
+# ChannelAssistant
+plist
